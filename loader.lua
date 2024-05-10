@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/KiDSCH/AbilityWars/blob/main/script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KiDSCH/AbilityWars/main/script.lua"))()
